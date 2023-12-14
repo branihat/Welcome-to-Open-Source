@@ -70,7 +70,7 @@ Thanks goes to these wonderful people ([:hugs:](https://allcontributors.org/docs
             </td>
             <td align="center">
                 <a href="https://github.com/branihat">
-                    <img src="https://avatars.githubusercontent.com/u/81821668?v=4" width="100px;" alt="Vishnu Thandel"/>
+                    <img src="https://avatars.githubusercontent.com/u/106902758?v=4" width="100px;" alt="Vishnu Thandel"/>
                     <br />
                     <sub><b>Vishnu Thandel</b></sub>
                 </a>
